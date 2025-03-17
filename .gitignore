@@ -2,3 +2,8 @@
 /.env.*
 !/.env.dev
 /aglaea.db
+
+
+# Added by cargo
+
+/target
